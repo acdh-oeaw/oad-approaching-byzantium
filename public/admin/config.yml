@@ -1,12 +1,12 @@
-site_url: https://openatlas-discovery-demo.acdh-dev.oeaw.ac.at
+site_url: https://approaching-byzantium.openatlas.eu/
 logo_url: /icon.svg
 load_config_file: true
 local_backend: true
 backend:
   name: github
-  repo: acdh-oeaw/openatlas-discovery
+  repo: acdh-oeaw/oad-approaching-byzantium
   branch: develop
-  base_url: https://openatlas-discovery-demo.acdh-dev.oeaw.ac.at
+  base_url: https://approaching-byzantium.openatlas.eu/
   auth_endpoint: /api/oauth/authorize
   auth_scope: repo
   squash_merges: true
@@ -20,12 +20,6 @@ media_folder: /public/assets/images
 public_folder: /assets/images
 editor:
   preview: false
-i18n:
-  structure: multiple_folders
-  locales:
-    - en
-    - de
-  default_locale: en
 system_classes: &ref_0
   - acquisition
   - activity
@@ -1759,6 +1753,7 @@ collections:
                 label: English
               - value: de
                 label: German
+
           - name: fullscreen
             label: Make the Website's Data Visualization Fullscreen per Default
             widget: boolean
@@ -1939,6 +1934,9 @@ collections:
   - name: metadata
     label: Metadata
     i18n: true
+    # currently file collections only support the "single_file" i18n structure,
+    # so we create a folder collection with a single entry, and disallow creating
+    # new entries.
     folder: messages
     identifier_field: __cms__
     format: json
@@ -1970,7 +1968,7 @@ collections:
     label: System pages
     label_singular: System page
     i18n: true
-    folder: content/system-pages
+    folder: content/system-pages/en
     create: false
     delete: false
     fields:
@@ -2032,7 +2030,7 @@ collections:
     label: Pages
     label_singular: Page
     i18n: true
-    folder: content/pages
+    folder: content/pages/en
     create: true
     delete: true
     fields:
@@ -2077,7 +2075,7 @@ collections:
     label: Team
     label_singular: Team member
     i18n: true
-    folder: content/team
+    folder: content/team/en
     media_folder: /public/assets/images/team
     public_folder: /assets/images/team
     identifier_field: lastName
