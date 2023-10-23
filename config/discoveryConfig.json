@@ -1,9 +1,5 @@
 {
   "defaultLocale": "en",
-  "defaultFilters": [362],
-  "APIbase": "https://mamems.openatlas.eu",
-  "imageDomains": ["openatlas.eu"],
-  "primaryColor": "#e73875",
-  "headerLogo": "/approaching_byzantium_logo.png",
-  "tite": "Approaching Byzantium"
+  "APIbase": "https://demo-dev.openatlas.eu",
+  "imageDomains": ["openatlas.eu"]
 }
