@@ -1,8 +1,8 @@
 {
-	"__cms__": true,
-	"Metadata": {
-		"name": "OpenAtlas Discovery",
-		"shortName": "OpenAtlas Discovery",
-		"description": "OpenAtlas is an open source database software developed especially to acquire, edit and manage research data from various fields of humanities."
-	}
+  "__cms__": true,
+  "Metadata": {
+    "name": "Approaching Byzantium",
+    "shortName": "Approaching Byzantium",
+    "description": "The [Approaching Byzantium in Ottoman Istanbul](https://www.byzanz-mainz.de/): the Reception of the Byzantine Heritage of Constantinople by Scholars from the Holy Roman Empire in the 16th\ncentury project analyzes how visiting the city of Constantinople affected the reception of\nByzantium by humanists from the Holy Roman Empire in the 16th century, when the former Byzantine  capital was the seat of the Ottoman Empire."
+  }
 }

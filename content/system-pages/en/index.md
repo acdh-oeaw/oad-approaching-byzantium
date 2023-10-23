@@ -1,27 +1,18 @@
 ---
-title: OpenAtlas Discovery
+title: Approaching Byzantium
 navigation: false
 image:
-  light: /assets/images/hero-light.svg
-  dark: /assets/images/hero-dark.svg
+  light: /approaching_byzantium_logo.png
+  dark: /approaching_byzantium_logo.png
 leadIn: >-
-  This is a prototype for [OpenAtlas](https://openatlas.eu) projects. Demo data kindly provided by:
-  [THANADOS](https://thanados.net/) - The Anthropological and Archaeological Database of Sepultures
+  The [Approaching Byzantium in Ottoman Istanbul](https://www.byzanz-mainz.de/): the Reception of
+  the Byzantine Heritage of Constantinople by Scholars from the Holy Roman Empire in the 16th
+  century project analyzes how visiting the city of Constantinople affected the reception of
+  Byzantium by humanists from the Holy Roman Empire in the 16th century, when the former Byzantine
+  capital was the seat of the Ottoman Empire.
 links:
   - label: View data
     href: /visualization?mode=table
   - label: View map
     href: /visualization?mode=map
 ---
-
-THANADOS (The Anthropological and Archaeological Database of Sepultures) deals with the digital
-collection and presentation of Early Medieval cemeteries in the area of present day Austria.
-
-Within THANADOS hitherto published information on Early Medieval burials was digitized and
-translated to English language. The data are mapped using the CIDOC CRM and provided online. The
-information can be explored via a digital catalogue and within an interactive map. Cartographic
-visualisations as well as charts and plots are created dynamically based on real archaeological
-research data.
-
-It aims at providing a best practice way on how to disseminate archaeological sources and research
-in the 21st century against the background of digital humanities.

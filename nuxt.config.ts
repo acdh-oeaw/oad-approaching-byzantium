@@ -72,7 +72,7 @@ export default defineNuxtConfig({
 		langDir: "./messages",
 		lazy: true,
 		locales: Object.values(localesMap),
-		strategy: "prefix",
+		strategy: "prefix_except_default",
 		vueI18n: "./i18n.config.ts",
 	},
 	imports: {

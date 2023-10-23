@@ -7,7 +7,7 @@ import type projectEn from "@/messages/en/project.json";
 
 import { project } from "../config/project.config";
 
-export const locales = ["de", "en"] as const;
+export const locales = ["en"] as const;
 
 export type Locale = (typeof locales)[number];
 
