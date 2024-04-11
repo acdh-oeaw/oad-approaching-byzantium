@@ -3,25 +3,4 @@ title: About the project
 navigation:
   title: About the project
 ---
-Elit anim cillum labore tempor Lorem irure voluptate qui nisi. Nostrud ut incididunt sint laborum ad
-est enim do qui. Occaecat labore ea adipisicing est esse enim amet irure non. Non ex et magna elit
-consequat cupidatat. Officia velit aute voluptate velit minim ullamco. Enim laboris irure sunt
-aliquip reprehenderit consequat cillum labore eiusmod ad cupidatat aliqua consectetur magna.
-
-Eiusmod excepteur amet id aliqua nostrud fugiat excepteur laboris elit nulla sunt adipisicing. Magna
-officia eu voluptate ad amet enim laboris laborum. Ut occaecat exercitation cillum ullamco veniam
-consequat ea Lorem veniam. Tempor officia pariatur est tempor aliquip exercitation reprehenderit
-aliquip cillum in enim pariatur amet. Duis anim cupidatat nulla tempor commodo magna pariatur
-laboris irure.
-
-Velit irure eu voluptate ipsum nulla incididunt. Consectetur veniam irure minim ea sint proident
-minim nisi commodo culpa dolore ex. Cillum nostrud voluptate commodo tempor ut consectetur. Dolor
-cillum esse nostrud eu veniam pariatur eiusmod eiusmod enim aliquip Lorem aliqua nulla exercitation.
-Exercitation non fugiat ea dolore nulla. Sunt esse eiusmod qui ea. Ipsum dolore non cupidatat velit
-commodo et pariatur.
-
-Ea reprehenderit Lorem cillum exercitation id est officia culpa irure ipsum fugiat tempor ullamco.
-Elit tempor labore occaecat culpa do tempor tempor. Eiusmod anim esse tempor deserunt deserunt aute
-aliquip eu cupidatat ad qui incididunt mollit est. Nisi ad nisi pariatur voluptate irure minim culpa
-voluptate aliqua et. Velit magna consequat incididunt dolor nulla consectetur sunt pariatur enim
-laborum culpa deserunt.
+The study of Byzantium was inaugurated within the context of humanism, after the end of the Byzantine Empire. However, it is unclear what the concept of Byzantium meant during the 16th century, since research in Byzantine history and culture was usually a subsidiary means to investigate other fields of knowledge, such as classical antiquity, Orthodox Christianity, and the geographical space of the Ottoman Empire. The main goal of the project is to study the direct encounter of humanists from the Holy Roman Empire with the capital of the Byzantine Empire itself as an effective way to understand how the idea of Byzantium developed and affected humanist thought; this will reveal crucial links in the relations between East and West. In order to analyze how visiting the city of Constantinople affected the reception of Byzantium by humanists from the Holy Roman Empire, diverse types of evidence, which reflect the ways visitors experienced the city, are examined: a. references in texts (mainly travel accounts) and images (e.g. panoramic views of Istanbul) to the Byzantine monuments and landmarks of Constantinople as preserved in the 16th century and b. Byzantine manuscripts transferred from 16th-century Istanbul to collections in Central Europe by humanists from the Holy Roman Empire. Thus, the project explores how the scholars under investigation made sense of various elements of Byzantine culture and how their concept of Byzantium developed as a consequence of viewing the monuments, collecting the manuscripts, and meeting the Orthodox populations they encountered in the city. By taking into account this array of media it is possible to follow the multifaceted activity of humanists, which encompassed portraying Byzantine monuments in words and images and collecting Byzantine codices as parts of the same process of discovering Byzantium in 16th-century Istanbul.
