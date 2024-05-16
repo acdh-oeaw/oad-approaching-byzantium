@@ -1,9 +1,9 @@
 {
 	"logos": {
-		"light": "/assets/images/logo.svg",
-		"dark": "/assets/images/logo.svg",
-		"withTextLight": "/assets/images/logo-with-text-light.svg",
-		"withTextDark": "/assets/images/logo-with-text-dark.svg"
+		"light": "/assets/images/approaching_byzantium_logo.png",
+		"dark": "/assets/images/apbyz_logo_inv.png",
+		"withTextLight": "/assets/images/approaching_byzantium_logo.png",
+		"withTextDark": "/assets/images/apbyz_logo_inv.png"
 	},
 	"imprint": "acdh",
 	"network": {

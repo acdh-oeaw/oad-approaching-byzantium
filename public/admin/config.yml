@@ -2024,6 +2024,7 @@ collections:
         label: Content
         i18n: true
         widget: markdown
+        required: false
         modes:
           - rich_text
   - name: pages
