@@ -284,6 +284,7 @@ collections:
         i18n: true
         # hint: The content
         widget: markdown
+        required: false
         modes:
           # - raw
           - rich_text

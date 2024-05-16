@@ -26,10 +26,10 @@
 	"defaultLocale": "en",
 	"imprint": "acdh-ch",
 	"logos": {
-		"light": "/approaching_byzantium_logo.png",
-		"dark": "/approaching_byzantium_logo.png",
-		"withTextLight": "/approaching_byzantium_logo.png",
-		"withTextDark": "/approaching_byzantium_logo.png"
+		"light": "/assets/images/approaching_byzantium_logo.png",
+		"dark": "/assets/images/apbyz_logo_inv.png",
+		"withTextLight": "/assets/images/approaching_byzantium_logo.png",
+		"withTextDark": "/assets/images/apbyz_logo_inv.png"
 	},
 	"twitter": "@openatlas_eu"
 }

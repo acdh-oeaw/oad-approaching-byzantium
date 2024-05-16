@@ -14,7 +14,11 @@ export function useGetNetworkData(params: MaybeRef<GetNetworkDataParams>) {
 	return useQuery({
 		queryKey: ["network-data", params] as const,
 		async queryFn({ queryKey, signal }) {
-			const [, params] = queryKey;
+			const [, queryParams] = queryKey;
+			const params = {
+				...defaultFilterParams,
+				...queryParams,
+			};
 
 			const linked_to_ids = defaultFilterParams.type_id?.map((value) => {
 				return value;
