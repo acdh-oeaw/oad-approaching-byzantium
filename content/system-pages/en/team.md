@@ -3,7 +3,7 @@ title: Team
 navigation:
   title: Team
 image:
-  light: /assets/images/hero-dark.svg
+  light: /assets/images/nicholasapproaching.jpg
   dark: /assets/images/logo-with-text-dark.svg
 leadIn: Nicholas Melvani
 links:
