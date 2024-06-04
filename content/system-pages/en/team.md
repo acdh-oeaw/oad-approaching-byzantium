@@ -3,7 +3,7 @@ title: Team
 navigation:
   title: Team
 image:
-  light: /assets/images/nicholasapproaching.jpg
+  light: /assets/images/approaching_byzantium_logo.png
   dark: /assets/images/logo-with-text-dark.svg
 leadIn: Nicholas Melvani
 links:
