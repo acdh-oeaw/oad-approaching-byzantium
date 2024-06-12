@@ -1,8 +1,26 @@
 {
 	"colors": {
-		"brand": "#b8cf5b",
-		"geojsonPoints": "#69c0ef",
-		"geojsonAreaCenterPoints": "#b8cf5b"
+		"brand": "#e63875",
+		"geojsonPoints": "#e63875",
+		"geojsonAreaCenterPoints": "#69c0ef",
+		"entityColors": {
+			"stratigraphic_unit": "#9723c1",
+			"place": "#69c0ef",
+			"acquisition": "#6a040f",
+			"activity": "#9d0208",
+			"move": "#e85d04",
+			"artifact": "#ee6c4d",
+			"human_remains": "#3d0066",
+			"person": "#ffca3a",
+			"feature": "#b8cf5b",
+			"event": "#ff595e",
+			"type": "#6a4c93",
+			"source": "#d60C19",
+			"file": "#9d4edd",
+			"group": "#f48c06"
+		},
+		"entityDefaultColor": "#666",
+		"disabledNodeColor": "#aaa"
 	},
 	"network": {
 		"excludeSystemClasses": [
@@ -24,12 +42,12 @@
 	},
 	"fullscreen": true,
 	"defaultLocale": "en",
-	"imprint": "acdh-ch",
 	"logos": {
 		"light": "/assets/images/approaching_byzantium_logo.png",
 		"dark": "/assets/images/apbyz_logo_inv.png",
 		"withTextLight": "/assets/images/approaching_byzantium_logo.png",
 		"withTextDark": "/assets/images/apbyz_logo_inv.png"
 	},
-	"twitter": "@openatlas_eu"
+	"imprint": "acdh-ch",
+	"twitter": ""
 }

@@ -2,7 +2,7 @@
 import "maplibre-gl/dist/maplibre-gl.css";
 
 import { assert } from "@acdh-oeaw/lib";
-import * as turf from "@turf/turf";
+// import * as turf from "@turf/turf";
 import {
 	FullscreenControl,
 	type GeoJSONSource,
