@@ -1,7 +1,6 @@
 import type { LocaleObject } from "vue-i18n-routing";
 
 import type de from "@/messages/de/common.json";
-import type projectDe from "@/messages/de/project.json";
 import type en from "@/messages/en/common.json";
 import type projectEn from "@/messages/en/project.json";
 
