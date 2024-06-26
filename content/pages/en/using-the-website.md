@@ -1,7 +1,7 @@
 ---
 title: Using the website
 navigation:
-  title: Using the Website
+  title: Navigating the Project
 ---
 ## Places in Ottoman Istanbul
 
@@ -11,6 +11,8 @@ The list of places includes Byzantine and Ottoman sites attested in the 16th-cen
 
 ## References in texts, depictions in images
 
-Each "Place" entry includes links to the available sources that mention it, with the appropriate bibliographic references. The textual sources are passages from travel accounts, travel journals, and official reports written by members of diplomatic delegations, pilgrims, or captives from the lands of the Holy Roman Empire who spent time in the capital of the Ottoman Empire. The earliest texts included here are the reports by the envoys Janos Hoberdanesz and Sixtus Weyxelberger of their diplomatic mission in 1528, whereas the latest account is that by Maximilian Brandstetter, completed in 1608. Here the passages from the travelogues are presented in their original language, namely German, Latin, French, or Italian (the envoys of the Holy Roman Empire were multilingual and originated from various parts of the Empire, not all of them German-speaking); the only exception to this rule is the journal written by the Bohemian author Wenceslas von Mitrowitz, excerpts of which have been included in English translation. Texts such as captions and legends accompanying images are also included in the original, transcribed from the original paintings, drawings, and woodcuts. 
+Each "Place" entry includes links to the available sources that mention it, with the appropriate bibliographic references. The textual sources are passages from travel accounts, travel journals, and official reports written by members of diplomatic delegations, pilgrims, or captives from the lands of the Holy Roman Empire who spent time in the capital of the Ottoman Empire. The earliest texts included here are the reports by the envoys Janos Hoberdanesz and Sixtus Weyxelberger of their diplomatic mission in 1528, whereas the latest account is that by Maximilian Brandstetter, completed in 1608. Here the passages from the travelogues are presented in their original language, namely German, Latin, French, or Italian (the envoys of the Holy Roman Empire were multilingual and originated from various parts of the Empire, not all of them German-speaking); the only exception to this rule is the journal written by the Bohemian author Wenceslas von Mitrowitz, excerpts of which have been included in English translation. 
 
-Images of 16th-century Istanbul and its monuments are included here as visual sources. The entries are illustrated with image files in jpeg or tiff format (details about the licenses are given for each image separately). Views depicting multiple monuments are annotated to indicate each place shown – these annotations are visible with the help of the embedded IIIF viewer.
+Images of 16th-century Istanbul and its monuments are included here as visual sources. The entries are illustrated with image files in jpeg or tiff format (details about the licenses are given for each image separately). Views depicting multiple monuments are annotated to indicate each place shown – these annotations are visible with the help of the embedded IIIF viewer. Texts such as captions and legends accompanying images are also included; they are provided in their original language (like the purely textual sources), transcribed from the original paintings, drawings, and woodcuts. 
+
+## Books from Ottoman Istanbul
