@@ -14,7 +14,7 @@ export type Locale = (typeof locales)[number];
 export const defaultLocale: Locale = project.defaultLocale;
 
 export const localesMap = {
-	de: { code: "de", iso: "de", files: ["de/common.json", "de/project.json", "de/crm.json"] },
+	// de: { code: "de", iso: "de", files: ["de/common.json", "de/project.json", "de/crm.json"] },
 	en: { code: "en", iso: "en", files: ["en/common.json", "en/project.json", "en/crm.json"] },
 } satisfies Record<Locale, LocaleObject>;
 
@@ -29,6 +29,6 @@ export function isValidLocale(value: string): value is Locale {
 }
 
 export interface Translations extends Record<Locale, Messages> {
-	de: typeof de & typeof projectDe;
+	de: typeof de;
 	en: typeof en & typeof projectEn;
 }
