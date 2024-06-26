@@ -31,7 +31,8 @@ const labels = computed(() => {
 				<span class="sr-only">
 					{{ t("LocaleSwitcher.switch-locale", { locale: labels.of(locale) }) }}
 				</span>
-				<span aria-hidden="true">{{ locale.toUpperCase() }}</span>
+				<!-- @ts-expect-error - locale is a string  -->
+				<span aria-hidden="true">{{ (locale as string).toUpperCase() }}</span>
 			</NuxtLink>
 			<span v-else class="cursor-default font-semibold">
 				<span class="sr-only">
