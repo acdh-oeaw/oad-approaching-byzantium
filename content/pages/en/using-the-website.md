@@ -1,5 +1,5 @@
 ---
-title: Using the website
+title: Navigating the Project
 navigation:
   title: Navigating the Project
 ---
