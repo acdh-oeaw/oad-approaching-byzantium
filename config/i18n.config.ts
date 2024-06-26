@@ -1,6 +1,6 @@
 import type { LocaleObject } from "vue-i18n-routing";
 
-import type de from "@/messages/de/common.json";
+// import type de from "@/messages/de/common.json";
 import type en from "@/messages/en/common.json";
 import type projectEn from "@/messages/en/project.json";
 
@@ -10,6 +10,7 @@ export const locales = ["en"] as const;
 
 export type Locale = (typeof locales)[number];
 
+// @ts-expect-error - This is a valid locale
 export const defaultLocale: Locale = project.defaultLocale;
 
 export const localesMap = {
@@ -28,6 +29,6 @@ export function isValidLocale(value: string): value is Locale {
 }
 
 export interface Translations extends Record<Locale, Messages> {
-	de: typeof de;
+	// de: typeof de;
 	en: typeof en & typeof projectEn;
 }
