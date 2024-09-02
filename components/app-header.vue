@@ -98,18 +98,18 @@ const links = computed(() => {
 
 <template>
 	<header class="border-b">
-		<div class="container flex items-center gap-4 py-4">
+		<div class="container flex gap-4 py-4">
 			<NavLink class="flex shrink-0" :href="links.home.href">
 				<span class="sr-only">{{ links.home.label }}</span>
 				<NuxtImg
 					alt=""
-					class="block size-10 object-contain lg:size-12 dark:hidden"
+					class="mr-6 block h-18 w-44 object-contain lg:w-44 dark:hidden"
 					preload
 					:src="project.logos.light"
 				/>
 				<NuxtImg
 					alt=""
-					class="hidden size-10 object-contain lg:size-12 dark:block"
+					class="mr-6 hidden h-18 w-44 object-contain lg:w-44 dark:block"
 					preload
 					:src="project.logos.dark"
 				/>

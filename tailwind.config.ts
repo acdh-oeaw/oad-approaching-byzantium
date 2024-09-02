@@ -74,6 +74,9 @@ const shadcnPlugin = createPlugin(
 				},
 			},
 			extend: {
+				spacing: {
+					"18": "4.5rem",
+				},
 				colors: {
 					brand: project.colors.brand,
 					border: "hsl(var(--border))",
