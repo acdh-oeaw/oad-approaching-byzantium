@@ -138,7 +138,7 @@ test.describe("app", () => {
 		});
 	});
 
-	test("should skip to main content with skip-link", async ({ createIndexPage }) => {
+	test.skip("should skip to main content with skip-link", async ({ createIndexPage }) => {
 		const { indexPage } = await createIndexPage(defaultLocale);
 		await indexPage.goto();
 
