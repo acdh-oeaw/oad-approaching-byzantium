@@ -97,6 +97,9 @@ function entityInNetwork(entity: EntityFeature) {
 								},
 							}"
 						>
+							<span class="sr-only">{{
+								inNetwork ? t("EntityPage.map") : t("EntityPage.no-map")
+							}}</span>
 							<MapPinIcon class="size-6 text-white dark:text-black" />
 						</NavLink>
 						<MapPinOffIcon v-if="!hasPlace" class="size-6 text-white dark:text-black" />
@@ -131,6 +134,9 @@ function entityInNetwork(entity: EntityFeature) {
 								},
 							}"
 						>
+							<span class="sr-only">{{
+								inNetwork ? t("EntityPage.network") : t("EntityPage.no-network")
+							}}</span>
 							<RadiusIcon class="size-6 text-white dark:text-black" />
 						</NavLink>
 						<CircleOffIcon v-if="!inNetwork" class="size-6 text-white dark:text-black" />
@@ -162,6 +168,7 @@ function entityInNetwork(entity: EntityFeature) {
 								},
 							}"
 						>
+							<span class="sr-only">{{ t("DataPage.title") }}</span>
 							<TablePropertiesIcon class="size-6 text-white dark:text-black" />
 						</NavLink>
 					</div>
