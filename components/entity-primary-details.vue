@@ -123,7 +123,9 @@ watchEffect(() => {
 
 function copyEntity() {
 	const fullUrl = window.location.href;
-	const baseUrl = fullUrl.split(route.path)[0];
+	const url = new URL(fullUrl);
+	const baseUrl = url.origin;
+
 	if (baseUrl) {
 		isCopied.value = true;
 		return navigator.clipboard.writeText(`${baseUrl}/entity/${route.query.selection as string}`);
