@@ -114,13 +114,13 @@ const links = computed(() => {
 				<span class="sr-only">{{ links.home.label }}</span>
 				<NuxtImg
 					alt=""
-					class="mr-3 block h-10 w-24 object-contain object-left sm:mr-4 sm:h-12 sm:w-28 md:mr-6 md:h-14 md:w-32 lg:size-12 dark:hidden"
+					class="mr-3 block h-10 w-24 object-contain object-left sm:mr-4 sm:h-12 sm:w-28 md:mr-6 md:h-14 md:w-32 lg:w-44 dark:hidden"
 					preload
 					:src="project.logos.light"
 				/>
 				<NuxtImg
 					alt=""
-					class="mr-3 hidden h-10 w-24 object-contain object-left sm:mr-4 sm:h-12 sm:w-28 md:mr-6 md:h-14 md:w-32 lg:size-12 dark:block"
+					class="mr-3 hidden h-10 w-24 object-contain object-left sm:mr-4 sm:h-12 sm:w-28 md:mr-6 md:h-14 md:w-32 lg:w-44 dark:block"
 					preload
 					:src="project.logos.dark"
 				/>
