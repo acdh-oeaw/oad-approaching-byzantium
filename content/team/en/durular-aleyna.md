@@ -2,4 +2,4 @@
 firstName: Aleyna
 lastName: Durular
 ---
-Aleyna Durular is a member of the Approaching Byzantium project.
+Aleyna Durular studies Christian Archaeology and Byzantine History at Johannes Gutenberg University, Mainz.
