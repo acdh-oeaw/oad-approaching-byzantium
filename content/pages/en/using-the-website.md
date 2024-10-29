@@ -1,7 +1,7 @@
 ---
-title: Navigating the Project
+title: Navigating the Website
 navigation:
-  title: Navigating the Project
+  title: Navigating the Website
 ---
 ## Places in Ottoman Istanbul
 
