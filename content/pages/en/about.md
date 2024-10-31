@@ -13,4 +13,9 @@ The DFG-funded project “Approaching Byzantium” was launched in July 2021 and
 
 ## Events and Publications
 
-* Nicholas Melvani, “Approaching Orthodox sacred space in Ottoman Istanbul: the wanderings of Protestant Humanists through the Byzantine monuments of Constantinople”, *Studia Universitatis Babes-Bolyai – Theologia Orthodoxa* 68 (2023), 47-78 (<https://doi.org/10.24193/subbto.2023.1.02>).
+* Nicholas Melvani, “Approaching Orthodox sacred space in Ottoman Istanbul: the wanderings of Protestant Humanists through the Byzantine monuments of Constantinople”, *Studia Universitatis Babes-Bolyai – Theologia Orthodoxa* 68 (2023), 47-78 (<https://doi.org/10.24193/subbto.2023.1.02>). 
+* Fener after Byzantium: a maritime neighborhood of Istanbul from the mid-17th to the 18th century (Conference: “Phanariot Materialities: Aspects of Domestic Architecture, Urban Culture, and Social Mobility”, Istanbul, 29-30 June 2024).
+* From Istanbul to Central Europe: Byzantine Books between Three Empires (Workshop: “Post-Conquest Materiality: Objects in the Histories of the Ottoman and Spanish Expansions”, Mainz, 12-13 May 2023).
+* Byzantine Constantinople and Habsburg Global Aspirations: The Reception of the Roman Imperial Heritage in Ottoman Istanbul by Scholars from the Holy Roman Empire (Conference: “Byzanz an frühneuzeitlichen Höfen. Rezeptionen, Konfrontationen und Projekte”, Mainz, 9-11 November 2022).
+* Shifting Borders in the Late Middle Ages: Byzantine Constantinople and Ottoman Istanbul Viewed by Scholars from the Holy Roman Empire in the 16th Century (Session: “Crossing Medieval Borders: Multicultural and Contested Spaces, I - Contested Sites at the Nexus of Dynamic Border Zones” at the International Medieval Congress, Leeds, 4-7 July 2022).
+* Landscapes of Victory in 16th-century Istanbul (Conference: "War with Byzantium. Legitimation, Consequences and Reception", Mainz, 9-11 June 2022).
