@@ -1,6 +1,6 @@
 ---
-firstName: ""
-lastName: OpenAtlas Team
+firstName: OpenAtlas
+lastName: Team
 academicTitle: ""
 ---
 
