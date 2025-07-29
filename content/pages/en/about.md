@@ -17,9 +17,7 @@ The DFG-funded project “Approaching Byzantium” was launched in July 2021 and
 
 ## Events
 
-
-
-* Panel "Confronting the New. Power Dynamics among Muslims, Christians and Jews in Sixteenth-Century Istanbul" (org. Susanne Härtel, Nicholas Melvani, Denise Klein) at the 55. Deutscher Historikertag (Bonn, 18 September 2025) ([details](<>))
+* Panel "Confronting the New. Power Dynamics among Muslims, Christians and Jews in Sixteenth-Century Istanbul" (org. Susanne Härtel, Nicholas Melvani, Denise Klein) at the 55. Deutscher Historikertag (Bonn, 18 September 2025) ([details](https://www.historikertag.de/Bonn2025/programm/confronting-the-new-power-dynamics-among-muslims-christians-and-jews-in-sixteenth-century-istanbul))[](<>)
 * Conference “Phanariot Materialities: Aspects of Domestic Architecture, Urban Culture, and Social Mobility”, Istanbul, 29-30 June 2024. Paper: Fener after Byzantium: a maritime neighborhood of Istanbul from the mid-17th to the 18th century ([program](https://anamed.ku.edu.tr/en/events/phanariot-materialities-domestic-architecture-urban-culture-and-social-mobility/#1717361773958-85ea07be-b56d))
 * Workshop: “Post-Conquest Materiality: Objects in the Histories of the Ottoman and Spanish Expansions”, Mainz, 12-13 May 2023. Paper: From Istanbul to Central Europe: Byzantine Books between Three Empires ([program](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ieg-mainz.de/mediathek/file/2918/E1GRs4eaEMEc27ylVWPzNCHp7jzEnQrsNMUzCO8HNr0,/media/public/PDF-Veranstaltung/2023-05-1213-Programm-WdV-Post-conquest-Materiality-dk.pdf))
 * Conference: “Byzanz an frühneuzeitlichen Höfen. Rezeptionen, Konfrontationen und Projekte”, Mainz, 9-11 November 2022. Paper: Byzantine Constantinople and Habsburg Global Aspirations: The Reception of the Roman Imperial Heritage in Ottoman Istanbul by Scholars from the Holy Roman Empire ([program and review](https://www.hsozkult.de/searching/id/fdkn-134645?title=byzanz-an-fruehneuzeitlichen-hoefen-rezeptionen-konfrontationen-und-projekte&recno=2&q=byzanz&sort=&fq=&total=582))
