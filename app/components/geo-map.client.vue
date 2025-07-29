@@ -688,13 +688,14 @@ function updateScope() {
 		zoomToSelection(props.selectionBounds);
 	} else if (props.currentSelectionCoordinates) {
 		flyToSelection(props.currentSelectionCoordinates);
-	} else if (geojsonPoints.features.length > 0) {
-		const bounds = turf.bbox(geojsonPoints) as [number, number, number, number];
-		map.fitBounds(bounds, { padding: 50, maxZoom: 16 });
-	} else if (geojsonCenterPoints.features.length > 0) {
-		const bounds = turf.bbox(geojsonCenterPoints) as [number, number, number, number];
-		map.fitBounds(bounds, { padding: 50 });
 	}
+	// } else if (geojsonPoints.features.length > 0) {
+	// 	const bounds = turf.bbox(geojsonPoints) as [number, number, number, number];
+	// 	map.fitBounds(bounds, { padding: 50, maxZoom: 16 });
+	// } else if (geojsonCenterPoints.features.length > 0) {
+	// 	const bounds = turf.bbox(geojsonCenterPoints) as [number, number, number, number];
+	// 	map.fitBounds(bounds, { padding: 50 });
+	// }
 }
 
 const polygonData = computed(() => {
