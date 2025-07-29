@@ -20,7 +20,7 @@ test("should set a canonical url", async ({ createIndexPage }) => {
 
 		const canonicalUrl = await indexPage.page.locator('link[rel="canonical"]').getAttribute("href");
 		expect(ensureTrailingSlash(String(canonicalUrl))).toBe(
-			String(createUrl({ baseUrl, pathname: `/` })),
+			String(createUrl({ baseUrl, pathname: `/visualization/` })),
 		);
 	}
 });
@@ -74,7 +74,9 @@ test("should set page metadata", async ({ createIndexPage }) => {
 		await expect(ogDescription).toHaveAttribute("content", i18n.t("Metadata.description"));
 
 		const ogUrl = await page.locator('meta[property="og:url"]').getAttribute("content");
-		expect(ensureTrailingSlash(String(ogUrl))).toBe(String(createUrl({ baseUrl, pathname: `/` })));
+		expect(ensureTrailingSlash(String(ogUrl))).toBe(
+			String(createUrl({ baseUrl, pathname: `/visualization/` })),
+		);
 
 		const ogLocale = page.locator('meta[property="og:locale"]');
 		await expect(ogLocale).toHaveAttribute("content", locale);
