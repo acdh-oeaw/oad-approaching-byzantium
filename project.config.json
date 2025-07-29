@@ -21,10 +21,10 @@
 		]
 	},
 	"colors": {
-		"brand": "#b8cf5b",
-		"geojsonPoints": "#69c0ef",
-		"geojsonAreaCenterPoints": "#b8cf5b",
-		"geojsonMovement": "#D0031E"
+		"brand": "#e63875",
+		"geojsonPoints": "#e63875",
+		"geojsonAreaCenterPoints": "#69c0ef",
+		"geojsonMovement": "#ffa600"
 	},
 	"twitter": "@openatlas_eu",
 	"detailView": [
@@ -85,7 +85,7 @@
 	"fullscreen": true,
 	"defaultLocale": "en",
 	"map": {
-		"startPage": false,
+		"startPage": true,
 		"mapDisplayedSystemClasses": ["place", "feature"],
 		"customIconConfig": [
 			{
