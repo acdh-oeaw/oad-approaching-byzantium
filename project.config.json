@@ -11,6 +11,7 @@
 			"type",
 			"reference_system",
 			"text",
+			"source",
 			"bibliography",
 			"external_reference",
 			"administrative_unit",
@@ -97,5 +98,5 @@
 			"light": "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json",
 			"dark": "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json"
 		}
-	}
+  }
 }
