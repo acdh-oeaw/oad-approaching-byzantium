@@ -25,11 +25,11 @@ Picture books (Costume and Friendship albums: *Trachtenbücher* and *Stammbüche
 
 There are two ways to access the data on this website by using either:
 
-1.      The “Search Map” function on the welcome page and from the menu. This includes all georeferenced entries of the “Approaching Byzantium” database, i.e., places and events, 
+1.      The “[Search Map](https://approaching-byzantium.openatlas.eu/visualization?mode=map)” function on the welcome page and from the menu. This includes all georeferenced entries of the “Approaching Byzantium” database, i.e., places and events, 
 
 or
 
-2.      The “Search Database” function from the menu. This includes the entire database, i.e., places, events,
+2.      The “[Search Database](https://approaching-byzantium.openatlas.eu/visualization?mode=table)” function from the menu. This includes the entire database, i.e., places, events,
 artifacts, actors, and references.
 
 Moreover, the Network Visualization function from the menu enables users to view the
