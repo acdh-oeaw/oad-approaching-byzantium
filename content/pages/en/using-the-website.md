@@ -20,3 +20,17 @@ Images of 16th-century Istanbul and its monuments are included here as visual so
 To illustrate the process of transferring objects from Istanbul to cities in the Holy Roman Empire, an eloquent type of “traveling artifacts” has been selected, namely Greek medieval and early modern manuscripts acquired in Istanbul by visitors from the German-speaking world (they are now preserved in various European libraries, primarily in Austria and in Germany). The Manuscript entries (entered into the Database as “Artifacts”) contain the basic data concerning the material attributes of the books, their date, some information about their contents, and a concise outline of their history prior to their transfer to Western Europe. Texts taking up at least ca. 20 folios of each manuscript are provided with separate entries as “Sources” with relevant identifiers (for example BHG or CPG numbers) and references to editions (if applicable), as well as links to all manuscripts in the database transmitting the same work. Since the project is not a paleographic or philological study, the user is advised to use the links to the Pinakes database via the corresponding Diktyon number contained in the entry for each manuscript, where they can find further information on the codicology, paleography, and textual transmission. The entries here also contain links to digitized versions of the manuscripts available from the digital repositories of the library institutions where they are currently preserved. 
 
 Picture books (Costume and Friendship albums: *Trachtenbücher* and *Stammbücher* or *Alba amicorum*) containing images of 16th-century Istanbul have also been entered as “Artifacts” and the relevant entries have been treated like those pertaining to the Byzantine manuscripts. Pages or folios decorated with representations of Constantinopolitan monuments and landmarks are itemized and linked to the corresponding visual sources, which, in turn, point to the “Places” entries and their topographical and archeological data. Links to digitized versions of these manuscripts are also included.
+
+## Searching the Database 
+
+There are two ways to access the data on this website by using either:
+
+1.      The “Search Map” function on the welcome page and from the menu. This includes all georeferenced entries of the “Approaching Byzantium” database, i.e., places and events, 
+
+or
+
+2.      The “Search Database” function from the menu. This includes the entire database, i.e., places, events,
+artifacts, actors, and references.
+
+Moreover, the Network Visualization function from the menu enables users to view the
+relationships between the data elements.
