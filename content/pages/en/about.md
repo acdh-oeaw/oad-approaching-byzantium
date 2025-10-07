@@ -3,11 +3,11 @@ title: About
 navigation:
   title: About the project
 ---
-![](/assets/images/dfg_logo_schriftzug_blau_foerderung_4c.jpg)
+![]()
 
-![](/assets/images/wcampbyzanz-leibniz_web-1-3-.jpg)
+![]()
 
-![](/assets/images/logo_schriftzug.jpg)
+![]()
 
 ## Introduction
 
