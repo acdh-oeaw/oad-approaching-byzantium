@@ -21,11 +21,11 @@ To illustrate the process of transferring objects from Istanbul to cities in the
 
 Picture books (Costume and Friendship albums: *Trachtenbücher* and *Stammbücher* or *Alba amicorum*) containing images of 16th-century Istanbul have also been entered as “Artifacts” and the relevant entries have been treated like those pertaining to the Byzantine manuscripts. Pages or folios decorated with representations of Constantinopolitan monuments and landmarks are itemized and linked to the corresponding visual sources, which, in turn, point to the “Places” entries and their topographical and archeological data. Links to digitized versions of these manuscripts are also included.
 
-## Searching the Database 
+## Searching the Database
 
 There are two ways to access the data on this website by using either:
 
-1.      The “[Search Map](https://approaching-byzantium.openatlas.eu/visualization?mode=map)” function on the welcome page and from the menu. This includes all georeferenced entries of the “Approaching Byzantium” database, i.e., places and events, 
+1.      The “[Search Map](https://approaching-byzantium.openatlas.eu/visualization?mode=map)” function on the welcome page and from the menu. This includes all georeferenced entries of the “Approaching Byzantium” database, i.e., places, artifacts, and events, 
 
 or
 
