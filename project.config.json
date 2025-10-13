@@ -78,6 +78,13 @@
 			],
 			"customOrdering": [],
 			"excludeTypeIds": []
+		},
+		{
+			"affectedSystemClasses": ["place"],
+			"primarySystemClasses": null,
+			"customOrdering": ["feature"],
+			"furtherSystemClasses": ["files", "references"],
+			"excludeTypeIds": []
 		}
 	],
 	"footer": {
