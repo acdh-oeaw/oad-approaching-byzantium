@@ -26,7 +26,7 @@ The DFG-funded project “Approaching Byzantium” was launched in July 2021 and
 
 ## Events
 
-* Conference "(Post)Byzantine Worlds: Contested Legacies Between East and West (29.-30.10.2025)" (org. 
+* Conference "(Post)Byzantine Worlds: Contested Legacies Between East and West" (org. 
   Ricarda Vulpius, Nicholas Melvani, Vitalij Fastovskij, and Egor Gvozdev, at University of Münster (Münster, 29-30 October 2025) ([program](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.byzanz-mainz.de/fileadmin/LWC_Byzanz/Tagungsprogramme/_Post_Byzantine_Worlds_Conference_Programme.pdf))
 * Panel "Confronting the New. Power Dynamics among Muslims, Christians and Jews in Sixteenth-Century Istanbul" (org. Susanne Härtel, Nicholas Melvani, Denise Klein) at the 55. Deutscher Historikertag (Bonn, 18 September 2025) ([details](https://www.historikertag.de/Bonn2025/programm/confronting-the-new-power-dynamics-among-muslims-christians-and-jews-in-sixteenth-century-istanbul))[](<>)
 * Conference “Phanariot Materialities: Aspects of Domestic Architecture, Urban Culture, and Social Mobility”, Istanbul, 29-30 June 2024. Paper: Fener after Byzantium: a maritime neighborhood of Istanbul from the mid-17th to the 18th century ([program](https://anamed.ku.edu.tr/en/events/phanariot-materialities-domestic-architecture-urban-culture-and-social-mobility/#1717361773958-85ea07be-b56d))
