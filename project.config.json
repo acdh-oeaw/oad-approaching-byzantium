@@ -80,7 +80,7 @@
 		},
 		{
 			"affectedSystemClasses": ["place"],
-			"primarySystemClasses": null,
+			"primarySystemClasses": [],
 			"customOrdering": ["feature"],
 			"furtherSystemClasses": ["files", "references"],
 			"excludeTypeIds": []
