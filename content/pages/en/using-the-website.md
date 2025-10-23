@@ -2,6 +2,7 @@
 title: Navigating the Website
 navigation:
   title: Navigating the Website
+toc: true
 ---
 ## Places in Ottoman Istanbul
 
