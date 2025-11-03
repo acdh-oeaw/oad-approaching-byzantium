@@ -33,5 +33,5 @@ or
 2.      The “[Search Database](https://approaching-byzantium.openatlas.eu/visualization?mode=table)” function from the menu. This includes the entire database, i.e., places, events,
 artifacts, actors, and references.
 
-Moreover, the Network Visualization function from the menu enables users to view the
+Moreover, the [Network Visualization](https://approaching-byzantium.openatlas.eu/visualization?mode=network) function from the menu enables users to view the
 relationships between the data elements.
