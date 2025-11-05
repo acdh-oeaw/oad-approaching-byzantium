@@ -139,7 +139,11 @@
     "customIconConfig": [
       {
         "entityType": 443,
-        "iconName": "Cross"
+        "iconName": "Church"
+      },
+      {
+        "entityType": 479,
+        "iconName": "MoonStar"
       }
     ],
     "customMovementConfig": {
