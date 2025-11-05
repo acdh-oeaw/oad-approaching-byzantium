@@ -121,7 +121,8 @@
       },
       {
         "entityType": 483,
-        "iconName": "MoonStar"
+        "iconName": "MoonStar",
+        "color": "#0faa34"
       }
     ],
     "customMovementConfig": {
