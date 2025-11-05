@@ -148,7 +148,16 @@
       }
     ],
     "customMovementConfig": {
-      "colorConfig": [],
+      "colorConfig": [
+        {
+          "entityType": 7630,
+          "color": "#7713ac"
+        },
+        {
+          "entityType": 2379,
+          "color": "#148687"
+        }
+      ],
       "arcThickness": true
     },
     "flyToZoom": 10,
