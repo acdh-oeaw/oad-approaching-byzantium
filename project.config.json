@@ -150,12 +150,12 @@
     "customMovementConfig": {
       "colorConfig": [
         {
-          "entityType": 7630,
-          "color": "#7713ac"
-        },
-        {
           "entityType": 2379,
           "color": "#148687"
+        },
+        {
+          "color": "#400777",
+          "entityType": 430
         }
       ],
       "arcThickness": true
