@@ -84,7 +84,7 @@
 			"primarySystemClasses": [],
 			"customOrdering": ["feature"],
 			"furtherSystemClasses": ["files", "references"],
-			"excludeTypeIds": []
+			"excludeTypeIds": ["360"]
 		}
 	],
 	"footer": {
