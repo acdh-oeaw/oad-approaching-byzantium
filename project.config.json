@@ -102,7 +102,9 @@
         "files",
         "references"
       ],
-      "excludeTypeIds": []
+      "excludeTypeIds": [
+        "360"
+      ]
     }
   ],
   "footer": {
