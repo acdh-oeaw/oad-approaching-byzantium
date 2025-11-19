@@ -59,7 +59,6 @@
 				"actor_function",
 				"actor_relation",
 				"appellation",
-				"artifact",
 				"creation",
 				"event",
 				"feature",
@@ -95,7 +94,6 @@
         "activity",
         "actor_function",
         "actor_relation",
-        "appellation",
         "artifact",
         "creation",
         "event",
@@ -121,7 +119,9 @@
         "files",
         "references"
       ],
-      "excludeTypeIds": []
+      "excludeTypeIds": [
+        "360"
+      ]
     },
     {
       "affectedSystemClasses": [
@@ -159,6 +159,30 @@
         "references"
       ],
       "excludeTypeIds": []
+    },
+    {
+      "affectedSystemClasses": [
+        "feature"
+      ],
+      "primarySystemClasses": [
+        "artifact",
+        "group",
+        "human_remains",
+        "move",
+        "person",
+        "source",
+        "source_translation"
+      ],
+      "customOrdering": [
+        "artifact"
+      ],
+      "furtherSystemClasses": [
+        "files",
+        "references"
+      ],
+      "excludeTypeIds": [
+        "360"
+      ]
     }
 	],
 	"footer": {
