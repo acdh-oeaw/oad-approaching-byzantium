@@ -207,26 +207,20 @@
         "move",
         "modification",
         "production",
-        "acquisition"
+        "acquisition",
+        "creation"
       ],
       "primarySystemClasses": [
-        "acquisition",
-        "activity",
         "actor_function",
         "actor_relation",
         "appellation",
         "artifact",
-        "creation",
-        "event",
         "feature",
         "group",
         "human_remains",
         "involvement",
-        "modification",
-        "move",
         "person",
         "place",
-        "production",
         "source",
         "source_translation",
         "stratigraphic_unit"
