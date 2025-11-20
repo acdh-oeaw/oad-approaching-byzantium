@@ -202,7 +202,12 @@
     },
     {
       "affectedSystemClasses": [
-        "event"
+        "event",
+        "activity",
+        "move",
+        "modification",
+        "production",
+        "acquisition"
       ],
       "primarySystemClasses": [
         "acquisition",
