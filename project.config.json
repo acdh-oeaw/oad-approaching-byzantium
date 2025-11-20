@@ -72,7 +72,6 @@
         "move",
         "person",
         "production",
-        "source",
         "source_translation",
         "stratigraphic_unit"
       ],
@@ -117,7 +116,6 @@
         "creation",
         "event",
         "feature",
-        "files",
         "group",
         "human_remains",
         "involvement",
@@ -126,7 +124,6 @@
         "person",
         "place",
         "production",
-        "references",
         "source",
         "source_translation",
         "stratigraphic_unit"
@@ -156,7 +153,6 @@
         "creation",
         "event",
         "feature",
-        "files",
         "group",
         "human_remains",
         "involvement",
@@ -165,7 +161,6 @@
         "person",
         "place",
         "production",
-        "references",
         "source",
         "source_translation",
         "stratigraphic_unit"
@@ -177,7 +172,9 @@
         "files",
         "references"
       ],
-      "excludeTypeIds": []
+      "excludeTypeIds": [
+        "360"
+      ]
     },
     {
       "affectedSystemClasses": [
@@ -194,6 +191,43 @@
       ],
       "customOrdering": [
         "artifact"
+      ],
+      "furtherSystemClasses": [
+        "files",
+        "references"
+      ],
+      "excludeTypeIds": [
+        "360"
+      ]
+    },
+    {
+      "affectedSystemClasses": [
+        "event"
+      ],
+      "primarySystemClasses": [
+        "acquisition",
+        "activity",
+        "actor_function",
+        "actor_relation",
+        "appellation",
+        "artifact",
+        "creation",
+        "event",
+        "feature",
+        "group",
+        "human_remains",
+        "involvement",
+        "modification",
+        "move",
+        "person",
+        "place",
+        "production",
+        "source",
+        "source_translation",
+        "stratigraphic_unit"
+      ],
+      "customOrdering": [
+        "place"
       ],
       "furtherSystemClasses": [
         "files",
