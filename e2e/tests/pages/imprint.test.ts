@@ -3,7 +3,6 @@ import { expect, test } from "~/e2e/lib/test";
 
 test.describe("imprint page", () => {
 	test("should have document title", async ({ createImprintPage }) => {
-	test("should have document title", async ({ createImprintPage }) => {
 		for (const locale of locales) {
 			const { i18n, imprintPage } = await createImprintPage(locale);
 			await imprintPage.goto();
@@ -14,7 +13,6 @@ test.describe("imprint page", () => {
 		}
 	});
 
-	test("should have imprint text", async ({ createImprintPage }) => {
 	test("should have imprint text", async ({ createImprintPage }) => {
 		const imprints = {
 			de: "Offenlegung",
@@ -29,7 +27,6 @@ test.describe("imprint page", () => {
 		}
 	});
 
-	test("should not have any automatically detectable accessibility issues", async ({
 	test("should not have any automatically detectable accessibility issues", async ({
 		createAccessibilityScanner,
 		createImprintPage,
