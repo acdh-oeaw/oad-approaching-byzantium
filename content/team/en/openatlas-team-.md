@@ -2,6 +2,7 @@
 firstName: OpenAtlas
 lastName: Team
 academicTitle: ""
+isLead: false
 ---
 
 
