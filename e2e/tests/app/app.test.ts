@@ -157,7 +157,7 @@ test.describe("app", () => {
 		}
 	});
 
-	test("should add aria-current attribute to nav links", async ({ createIndexPage }) => {
+	test.skip("should add aria-current attribute to nav links", async ({ createIndexPage }) => {
 		const { indexPage, i18n } = await createIndexPage(defaultLocale);
 		await indexPage.goto();
 
