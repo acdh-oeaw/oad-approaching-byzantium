@@ -17,6 +17,7 @@ The DFG-funded project “Approaching Byzantium” was launched in July 2021 and
 ## Publications
 
 * Nicholas Melvani, "Byzantine Constantinople and Habsburg Global Aspirations: The Reception of the Roman Imperial Heritage in Ottoman Istanbul by Scholars from the Holy Roman Empire", in: Matthias Schnettger, Jan Kusber, Klaus Pietschmann, and Stefan Albrecht (eds), *Byzantium at Early Modern Courts: Reception, Confrontation and Projects*, Mainz 2025, 97–108 ([https://doi.org/10.11588/propylaeum.1617.c23253).](https://doi.org/10.11588/propylaeum.1617.c23253)
+* [](https://doi.org/10.11588/propylaeum.1617.c23253)Nicholas Melvani, "From Vienna to Byzantium: Humanists from the Holy Roman Empire in 16th-;century Istanbul", *Erudition and the Republic of Letters* 10 (2025), 355-390.
 * Nicholas Melvani, “Approaching Orthodox sacred space in Ottoman Istanbul: the wanderings of Protestant Humanists through the Byzantine monuments of Constantinople”, *Studia Universitatis Babes-Bolyai – Theologia Orthodoxa* 68 (2023), 47-78 (<https://doi.org/10.24193/subbto.2023.1.02>). 
 
 ## Events
