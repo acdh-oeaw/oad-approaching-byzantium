@@ -6,11 +6,9 @@ toc: true
 ---
 Questions, comments, and suggestions are always welcome! Please contact:
 
-
-
 Dr. Nicholas Melvani
 
-Historisches Seminar - Arbeitsbereich Osteuropäische Geschichte
+Historisches Seminar 
 
 Johannes Gutenberg-University, Mainz
 
