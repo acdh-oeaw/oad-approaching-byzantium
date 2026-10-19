@@ -5,7 +5,7 @@
 		"withTextLight": "/assets/images/approaching_byzantium_logo.png",
 		"withTextDark": "/assets/images/apbyz_logo_inv.png"
 	},
-	"imprint": "acdh-ch",
+	"imprint": "acdh",
 	"network": {
 		"excludeSystemClasses": [
 			"type",
@@ -61,7 +61,6 @@
 				"appellation",
 				"creation",
 				"event",
-				"feature",
 				"group",
 				"human_remains",
 				"involvement",
@@ -69,155 +68,118 @@
 				"move",
 				"person",
 				"production",
-				"source",
 				"source_translation",
-				"stratigraphic_unit",
-				"place",
-				"type"
+				"stratigraphic_unit"
 			],
 			"customOrdering": [],
-			"excludeTypeIds": []
-		},
-		{
-			"affectedSystemClasses": ["place"],
-			"primarySystemClasses": [],
-			"customOrdering": ["feature"],
-			"furtherSystemClasses": ["files", "references"],
 			"excludeTypeIds": ["360"]
 		},
 		{
-      "affectedSystemClasses": [
-        "artifact"
-      ],
-      "primarySystemClasses": [
-        "acquisition",
-        "activity",
-        "actor_function",
-        "actor_relation",
-        "artifact",
-        "creation",
-        "event",
-        "feature",
-        "group",
-        "human_remains",
-        "involvement",
-        "modification",
-        "move",
-        "person",
-        "place",
-        "production",
-        "source",
-        "source_translation",
-        "stratigraphic_unit"
-      ],
-      "customOrdering": [
-        "artifact"
-      ],
-      "furtherSystemClasses": [
-        "files",
-        "references"
-      ],
-      "excludeTypeIds": [
-        "360"
-      ]
-    },
-    {
-      "affectedSystemClasses": [
-        "source"
-      ],
-      "primarySystemClasses": [
-        "acquisition",
-        "activity",
-        "actor_function",
-        "actor_relation",
-        "appellation",
-        "artifact",
-        "creation",
-        "event",
-        "feature",
-        "group",
-        "human_remains",
-        "involvement",
-        "modification",
-        "move",
-        "person",
-        "place",
-        "production",
-        "source",
-        "source_translation",
-        "stratigraphic_unit"
-      ],
-      "customOrdering": [
-        "source_translation"
-      ],
-      "furtherSystemClasses": [
-        "files",
-        "references"
-      ],
-      "excludeTypeIds": [
-        "360"
-      ]
-    },
-    {
-      "affectedSystemClasses": [
-        "feature"
-      ],
-      "primarySystemClasses": [
-        "artifact",
-        "group",
-        "human_remains",
-        "move",
-        "person",
-        "source",
-        "source_translation"
-      ],
-      "customOrdering": [
-        "artifact"
-      ],
-      "furtherSystemClasses": [
-        "files",
-        "references"
-      ],
-      "excludeTypeIds": [
-        "360"
-      ]
-    },
-    {
-      "affectedSystemClasses": [
-        "event",
-        "activity",
-        "move",
-        "modification",
-        "production",
-        "acquisition",
-        "creation"
-      ],
-      "primarySystemClasses": [
-        "actor_function",
-        "actor_relation",
-        "appellation",
-        "artifact",
-        "feature",
-        "group",
-        "human_remains",
-        "involvement",
-        "person",
-        "place",
-        "source",
-        "source_translation",
-        "stratigraphic_unit"
-      ],
-      "customOrdering": [
-        "place"
-      ],
-      "furtherSystemClasses": [
-        "files",
-        "references"
-      ],
-      "excludeTypeIds": [
-        "360"
-      ]
-    }
+			"affectedSystemClasses": ["place"],
+			"primarySystemClasses": ["artifact", "event", "feature", "source", "activity", "move"],
+			"customOrdering": ["source"],
+			"furtherSystemClasses": ["files", "references", "externalReferenceSystems"],
+			"excludeTypeIds": ["360"]
+		},
+		{
+			"affectedSystemClasses": ["artifact"],
+			"primarySystemClasses": [
+				"acquisition",
+				"activity",
+				"actor_function",
+				"actor_relation",
+				"artifact",
+				"creation",
+				"event",
+				"feature",
+				"group",
+				"human_remains",
+				"involvement",
+				"modification",
+				"move",
+				"person",
+				"place",
+				"production",
+				"source",
+				"source_translation",
+				"stratigraphic_unit"
+			],
+			"customOrdering": ["artifact"],
+			"furtherSystemClasses": ["files", "references", "externalReferenceSystems"],
+			"excludeTypeIds": ["360"]
+		},
+		{
+			"affectedSystemClasses": ["source"],
+			"primarySystemClasses": [
+				"acquisition",
+				"activity",
+				"actor_function",
+				"actor_relation",
+				"appellation",
+				"artifact",
+				"creation",
+				"event",
+				"feature",
+				"group",
+				"human_remains",
+				"involvement",
+				"modification",
+				"move",
+				"person",
+				"place",
+				"production",
+				"source",
+				"source_translation",
+				"stratigraphic_unit"
+			],
+			"customOrdering": ["source_translation"],
+			"furtherSystemClasses": ["files", "references", "externalReferenceSystems"],
+			"excludeTypeIds": ["360"]
+		},
+		{
+			"affectedSystemClasses": ["feature"],
+			"primarySystemClasses": [
+				"artifact",
+				"group",
+				"human_remains",
+				"move",
+				"person",
+				"source",
+				"source_translation"
+			],
+			"customOrdering": ["artifact"],
+			"furtherSystemClasses": ["files", "references", "externalReferenceSystems"],
+			"excludeTypeIds": ["360"]
+		},
+		{
+			"affectedSystemClasses": [
+				"event",
+				"activity",
+				"move",
+				"modification",
+				"production",
+				"acquisition",
+				"creation"
+			],
+			"primarySystemClasses": [
+				"actor_function",
+				"actor_relation",
+				"appellation",
+				"artifact",
+				"feature",
+				"group",
+				"human_remains",
+				"involvement",
+				"person",
+				"place",
+				"source",
+				"source_translation",
+				"stratigraphic_unit"
+			],
+			"customOrdering": ["place"],
+			"furtherSystemClasses": ["files", "references", "externalReferenceSystems"],
+			"excludeTypeIds": ["360"]
+		}
 	],
 	"footer": {
 		"partner_logos": [
@@ -246,32 +208,31 @@
 	"map": {
 		"startPage": true,
 		"mapDisplayedSystemClasses": ["place", "feature", "artifact"],
-		 "customIconConfig": [
-      {
-        "entityType": 443,
-        "iconName": "Church"
-      },
-      {
-        "entityType": 483,
-        "iconName": "MoonStar",
-        "color": "#0faa34"
-      }
-    ],
-    "customMovementConfig": {
-      "colorConfig": [
-        {
-          "entityType": 2379,
-          "color": "#148687"
-        },
-        {
-          "color": "#400777",
-          "entityType": 430
-        }
-      ],
-      "arcThickness": true
-    },
-    "flyToZoom": 10,
-		
+		"customIconConfig": [
+			{
+				"entityType": 443,
+				"iconName": "Church"
+			},
+			{
+				"entityType": 483,
+				"iconName": "MoonStar",
+				"color": "#0faa34"
+			}
+		],
+		"customMovementConfig": {
+			"colorConfig": [
+				{
+					"entityType": 2379,
+					"color": "#148687"
+				},
+				{
+					"color": "#400777",
+					"entityType": 430
+				}
+			],
+			"arcThickness": true
+		},
+		"flyToZoom": 10,
 		"baseLayerURL": {
 			"light": "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json",
 			"dark": "https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json"

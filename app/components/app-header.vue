@@ -120,7 +120,7 @@ const links = computed(() => {
 				/>
 				<NuxtImg
 					alt=""
-					class="mr-3 block hidden h-full w-44 object-contain object-left sm:mr-4 md:mr-6 dark:block"
+					class="mr-3 hidden h-full w-44 object-contain object-left sm:mr-4 md:mr-6 dark:block"
 					preload
 					:src="project.logos.dark"
 				/>
